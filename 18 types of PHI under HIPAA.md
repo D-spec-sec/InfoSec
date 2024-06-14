@@ -15,22 +15,22 @@
 
 7.Medical record numbers
 
-Health plan beneficiary numbers
+8.Health plan beneficiary numbers
 
-Account numbers
+9.Account numbers
 
-Certificate/license numbers (e.g., medical license, vehicle license)
+10.Certificate/license numbers (e.g., medical license, vehicle license)
 
-Vehicle identifiers and serial numbers, including license plate numbers
+11.Vehicle identifiers and serial numbers, including license plate numbers
 
-Device identifiers and serial numbers
+12.Device identifiers and serial numbers
 
-Web URLs
+13.Web URLs
 
-IP addresses
+14.IP addresses
 
-Biometric identifiers (e.g., fingerprints, retinal scans)
+15.Biometric identifiers (e.g., fingerprints, retinal scans)
 
-Full-face photographs and comparable images
+16.Full-face photographs and comparable images
 
-Any other unique identifying number, characteristic, or code
+17.Any other unique identifying number, characteristic, or code
