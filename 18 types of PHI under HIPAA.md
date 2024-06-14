@@ -1,5 +1,5 @@
 
-###Names
+Names
 Addresses (including street address, city, county, and ZIP code)
 Dates (such as birthdates, admission dates, discharge dates)
 Telephone numbers
