@@ -19,4 +19,5 @@ Control Framework: SABSA provides a control framework that helps organizations d
 ## FedRAMP
 FedRAMP, or Federal Risk and Authorization Management Program, is a U.S. government program specifically designed to standardize the security assessment, authorization, and monitoring of cloud products and services for federal agencies. While it is a crucial framework for cloud security, it is not a generic methodology for developing risk-driven enterprise information security architectures.
 
-##COBIT: COBIT, or Control Objectives for Information and Related Technologies, is a framework developed by ISACA for IT governance and management. While COBIT addresses aspects of information security and risk management, it is not specifically focused on the comprehensive development of risk-driven enterprise information security architectures. It is more broadly applicable to IT governance and control.
+##COBIT
+COBIT, or Control Objectives for Information and Related Technologies, is a framework developed by ISACA for IT governance and management. While COBIT addresses aspects of information security and risk management, it is not specifically focused on the comprehensive development of risk-driven enterprise information security architectures. It is more broadly applicable to IT governance and control.
