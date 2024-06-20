@@ -18,7 +18,7 @@
 
 2.4 External Parties
 
-###Incident Classification
+### Incident Classification
 
 3.1 Incident Types
 
