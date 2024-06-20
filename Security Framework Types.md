@@ -1,5 +1,5 @@
 ## SABSA, 
-which stands for Sherwood Applied Business Security Architecture, is a framework and methodology for developing risk-driven enterprise information security and cybersecurity architectures. It was created by David Lynas and is widely used to design and implement security solutions that align with business objectives. 
+Which stands for Sherwood Applied Business Security Architecture, is a framework and methodology for developing risk-driven enterprise information security and cybersecurity architectures. It was created by David Lynas and is widely used to design and implement security solutions that align with business objectives. 
 SABSA provides a holistic and structured approach to information security, focusing on integrating security into the overall business strategy.
 Key features and components of SABSA include:
 
@@ -15,3 +15,8 @@ Frameworks and Models: SABSA integrates with various security frameworks, standa
 
 Control Framework: SABSA provides a control framework that helps organizations define, design, and implement security controls in a consistent and comprehensive manner.
 
+
+## FedRAMP
+FedRAMP, or Federal Risk and Authorization Management Program, is a U.S. government program specifically designed to standardize the security assessment, authorization, and monitoring of cloud products and services for federal agencies. While it is a crucial framework for cloud security, it is not a generic methodology for developing risk-driven enterprise information security architectures.
+
+##COBIT: COBIT, or Control Objectives for Information and Related Technologies, is a framework developed by ISACA for IT governance and management. While COBIT addresses aspects of information security and risk management, it is not specifically focused on the comprehensive development of risk-driven enterprise information security architectures. It is more broadly applicable to IT governance and control.
