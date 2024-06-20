@@ -8,7 +8,7 @@
 
 ## 1.4 Policy Statement
 
-## Roles and Responsibilities
+### Roles and Responsibilities
 
 2.1 Incident Response Team (IRT)
 
@@ -18,7 +18,7 @@
 
 2.4 External Parties
 
-Incident Classification
+###Incident Classification
 
 3.1 Incident Types
 
@@ -26,7 +26,7 @@ Incident Classification
 
 3.3 Impact Analysis
 
-Incident Detection and Reporting
+###Incident Detection and Reporting
 
 4.1 Detection Mechanisms
 
@@ -34,7 +34,7 @@ Incident Detection and Reporting
 
 4.3 Initial Response
 
-Incident Response Procedures
+###Incident Response Procedures
 
 5.1 Identification
 
@@ -44,7 +44,7 @@ Incident Response Procedures
 
 5.4 Recovery
 
-Communication Plan
+### Communication Plan
 
 6.1 Internal Communication
 
@@ -52,7 +52,7 @@ Communication Plan
 
 6.3 Communication Templates
 
-Documentation and Evidence Collection
+###Documentation and Evidence Collection
 
 7.1 Incident Documentation
 
@@ -60,7 +60,7 @@ Documentation and Evidence Collection
 
 7.3 Chain of Custody
 
-Post-Incident Activities
+### Post-Incident Activities
 
 8.1 Post-Incident Review
 
@@ -68,7 +68,7 @@ Post-Incident Activities
 
 8.3 Reporting and Follow-Up
 
-Training and Awareness
+### Training and Awareness
 
 9.1 Training Programs
 
@@ -76,7 +76,7 @@ Training and Awareness
 
 9.3 Simulation and Drills
 
-Tools and Resources
+### Tools and Resources
 
 10.1 Incident Response Tools
 
@@ -84,7 +84,7 @@ Tools and Resources
 
 10.3 Reference Materials
 
-Policy Review and Maintenance
+### Policy Review and Maintenance
 
 11.1 Review Schedule
 
@@ -92,7 +92,7 @@ Policy Review and Maintenance
 
 11.3 Version Control
 
-Compliance and Legal Considerations
+### Compliance and Legal Considerations
 
 12.1 Regulatory Requirements
 
@@ -100,7 +100,7 @@ Compliance and Legal Considerations
 
 12.3 Privacy Considerations
 
-Appendices
+### Appendices
 
 13.1 Glossary of Terms
 
