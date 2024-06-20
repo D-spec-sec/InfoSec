@@ -1,6 +1,6 @@
-#Risk Assesment Framework:
+# Risk Assesment Framework:
 
-##Establish Context
+## Establish Context
 
 Define Objectives: Identify the goals and objectives of the risk assessment.
 Scope: Determine the boundaries and scope of the risk assessment.
@@ -43,7 +43,7 @@ Reporting: Regularly report on the status of risk management activities to senio
 Key Components of the Framework
 Risk Identification Tools:
 
-Risk Identification Tools:
+## Risk Identification Tools:
 
 Checklists
 Brainstorming sessions
