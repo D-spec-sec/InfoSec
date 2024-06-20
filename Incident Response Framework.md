@@ -1,14 +1,14 @@
-Introduction
+# Introduction
 
-1.1 Purpose
+## 1.1 Purpose
 
-1.2 Scope
+## 1.2 Scope
 
-1.3 Definitions
+## 1.3 Definitions
 
-1.4 Policy Statement
+## 1.4 Policy Statement
 
-Roles and Responsibilities
+## Roles and Responsibilities
 
 2.1 Incident Response Team (IRT)
 
