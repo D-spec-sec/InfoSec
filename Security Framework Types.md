@@ -21,3 +21,10 @@ FedRAMP, or Federal Risk and Authorization Management Program, is a U.S. governm
 
 ## COBIT
 COBIT, or Control Objectives for Information and Related Technologies, is a framework developed by ISACA for IT governance and management. While COBIT addresses aspects of information security and risk management, it is not specifically focused on the comprehensive development of risk-driven enterprise information security architectures. It is more broadly applicable to IT governance and control.
+
+
+## NIST SP 800-53: 
+NIST Special Publication 800-53 (SP 800-53) is not a guide for applying the RMF itself but rather provides a comprehensive set of security controls for federal information systems and organizations. It is used in conjunction with the RMF.
+
+## ISO 27003: 
+ISO 27003 is not specifically focused on the NIST Risk Management Framework. Instead, it is part of the ISO/IEC 27000 series and provides guidelines for the implementation of information security management.
