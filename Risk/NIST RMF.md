@@ -1,4 +1,4 @@
-The NIST Risk Management Framework (RMF) consists of seven steps designed to help organizations manage and mitigate risks effectively. Here is a brief overview of each step:
+## The NIST Risk Management Framework (RMF) consists of seven steps designed to help organizations manage and mitigate risks effectively. Here is a brief overview of each step:
 
 ### 1. Prepare:
 
