@@ -1,4 +1,4 @@
-###Configuration Management.
+### Configuration Management.
 Configuration management is closely related to patch management, as both involve maintaining the desired state of systems. A well-organized patch management process ensures that software configurations are appropriately updated. Therefore, configuration management is a valid consideration for advocating a structured patch management process.
 
 ### Bandwidth Utilization. 
