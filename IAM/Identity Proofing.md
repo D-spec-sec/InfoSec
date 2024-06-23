@@ -1,0 +1,1 @@
+The initial step in the identity proofing procedure is to uniquely identify the individual within a specific population or context. This step helps ensure that the individual's identity is accurately established before granting access to sensitive information or systems.
