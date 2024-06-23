@@ -1,0 +1,2 @@
+A digital certificate typically includes the public and private keys, the user's name or identity, the date of issuance, and the expiration date. The public key is used for encryption or verification, while the private key is kept confidential for decryption or signing.
+The user's information helps identify the certificate holder, and the issuance and expiration dates establish the validity period.
