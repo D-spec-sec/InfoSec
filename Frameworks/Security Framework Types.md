@@ -1,4 +1,4 @@
-## SABSA, 
+## SABSA 
 Which stands for Sherwood Applied Business Security Architecture, is a framework and methodology for developing risk-driven enterprise information security and cybersecurity architectures. It was created by David Lynas and is widely used to design and implement security solutions that align with business objectives. 
 SABSA provides a holistic and structured approach to information security, focusing on integrating security into the overall business strategy.
 Key features and components of SABSA include:
@@ -32,3 +32,6 @@ ISO 27003 is not specifically focused on the NIST Risk Management Framework. Ins
 
 ### NIST SP 800-37: 
 NIST Special Publication 800-37 primarily focuses on the Risk Management Framework (RMF) for information systems. While it includes security control considerations, it is not as detailed in specifying security controls as NIST SP 800-53.
+
+### PRINCE2
+is a project management methodology and framework, not a security control framework.
