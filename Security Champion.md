@@ -1,0 +1,3 @@
+Security champions are experts in software security matters and hold a pivotal position in the first maturity level of Organization and Culture within the OWASP Software Assurance Maturity Model (SAMM). Designating a team member, such as a software developer, tester, or product manager, as the security champion is instrumental in ingraining security practices within the development organization.
+
+These security champions undergo relevant training. They provide regular updates to the Application Security and Development teams, offering insights into the current status of security initiatives and resolutions. Additionally, the security champion assesses external testing outcomes before incorporating them into the application backlog.
