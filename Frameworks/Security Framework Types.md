@@ -35,3 +35,7 @@ NIST Special Publication 800-37 primarily focuses on the Risk Management Framewo
 
 ### PRINCE2
 is a project management methodology and framework, not a security control framework.
+
+### Cyber Kill Chain
+is a framework used to describe the stages of a cyber attack, starting from the initial reconnaissance and progressing through various steps, such as weaponization, delivery, exploitation, installation, command and control, actions on objective.
+It helps organizations understand and analyze the tactics employed by adversaries, allowing for better defense and response strategies at each stage of an attack.
