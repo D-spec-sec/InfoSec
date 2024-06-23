@@ -24,7 +24,11 @@ COBIT, or Control Objectives for Information and Related Technologies, is a fram
 
 
 ## NIST SP 800-53: 
-NIST Special Publication 800-53 (SP 800-53) is not a guide for applying the RMF itself but rather provides a comprehensive set of security controls for federal information systems and organizations. It is used in conjunction with the RMF.
+NIST SP 800-53 is a comprehensive security control framework that provides detailed security controls across various areas such as access control, auditing, account management, configuration management, and more. It is widely used in the cybersecurity industry to establish and maintain effective security programs.
+NIST Special Publication 800-53 (SP 800-53) is not a guide for applying the RMF itself but rather provides a comprehensive set of security controls for federal information systems and organizations. It is used in conjunction with the RMF (800-37).
 
 ## ISO 27003: 
 ISO 27003 is not specifically focused on the NIST Risk Management Framework. Instead, it is part of the ISO/IEC 27000 series and provides guidelines for the implementation of information security management.
+
+### NIST SP 800-37: 
+NIST Special Publication 800-37 primarily focuses on the Risk Management Framework (RMF) for information systems. While it includes security control considerations, it is not as detailed in specifying security controls as NIST SP 800-53.
