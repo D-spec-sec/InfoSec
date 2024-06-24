@@ -1,0 +1,1 @@
+Human Machine Interfaces (HMIs) are user interface devices that allow operators to interact with Industrial Control Systems. They are used for monitoring and controlling processes but are not intended for storing and managing large volumes of historical data. HMIs do not have the necessary capabilities to serve as a data repository for an Industrial Control System.
