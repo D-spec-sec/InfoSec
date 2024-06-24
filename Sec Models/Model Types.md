@@ -1,5 +1,5 @@
 ### Bell Lapadula 
-security model primarily focuses on maintaining the secrecy of information by controlling access based on security clearances and classifications. It emphasizes confidentiality over integrity. No read up, no write down
+security model primarily focuses on maintaining the secrecy of information by controlling access based on security clearances and classifications. It emphasizes confidentiality over integrity. No read up, no write down.
 Simple Security rule, Star property rule, Strong star property rule
 
 ### Biba
