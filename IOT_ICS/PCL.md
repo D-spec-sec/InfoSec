@@ -1,0 +1,1 @@
+Programmable logic controllers (PLCs) are devices used for controlling industrial processes and machinery, not for storing and managing data. While PLCs play a crucial role in the operation of Industrial Control Systems, they are not designed to serve as data repositories for historical data storage.
