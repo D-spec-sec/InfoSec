@@ -1,0 +1,1 @@
+Digital signatures are typically created by first hashing the message to generate a fixed-size hash value and then encrypting this hash value with the sender's private key. Hashing ensures data integrity, and encrypting the hash with the private key provides authenticity and non-repudiation.
