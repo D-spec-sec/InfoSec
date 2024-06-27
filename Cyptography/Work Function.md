@@ -1,0 +1,1 @@
+work function serves as a metric to gauge the strength of a cryptosystem. It takes into account various factors such as the array of algorithms at the cryptosystem's disposal, key sizes, key space, and other relevant considerations.
