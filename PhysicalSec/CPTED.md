@@ -1,0 +1,1 @@
+Crime Prevention Through Environmental Design (CPTED) is a theory that emphasizes designing physical spaces and environments to prevent crime and discourage malicious acts. It recognizes that the layout, architecture, and design of an environment can influence human behavior, and strategic design can contribute to reducing opportunities for criminal activities.
