@@ -1,3 +1,12 @@
+
+### Cryptanalysis 
+Cryptanalysisaims to compromise the security of a cryptographic system, and achieving this often involves discovering the keys involved, including the private key. Additionally, breaking the cryptographic algorithm is part of making the system ineffective, as it implies finding vulnerabilities or weaknesses in the algorithm itself. 
+
+
+
+
+
+
 ### Implementation
 Implementation attacks focus on the construction and execution of the entire cryptosystem, rather than solely targeting the key or algorithm.
 
