@@ -9,3 +9,6 @@ Standards are benchmarks or criteria used to assess and measure performance or q
 
 ### Frameworks
 Frameworks are overarching structures that provide a foundation for the development and implementation of various processes, policies, and procedures. They are usually established at a higher level and are not commonly written collaboratively by middle management and line personnel.
+
+### Guidlines
+Guidelines are recommendations or suggestions that provide advice on best practices, but they are not mandatory. They may be developed by third parties or industry experts and offer flexible approaches that organizations can choose to adopt based on their specific needs. Guidelines are not binding requirements and are typically considered as optional reference material.
